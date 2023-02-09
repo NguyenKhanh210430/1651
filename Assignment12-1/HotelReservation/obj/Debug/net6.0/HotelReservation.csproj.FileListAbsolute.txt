@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\HotelReservation.exe
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\HotelReservation.deps.json
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\HotelReservation.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\HotelReservation.dll
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\ref\HotelReservation.dll
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\bin\Debug\net6.0\HotelReservation.pdb
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.dll
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\ref\HotelReservation.dll
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.pdb
+C:\Users\Asus\source\repos\HomeWork2\HotelReservation\obj\Debug\net6.0\HotelReservation.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "931f93a4-7e3a-4c31-8e23-1586893fc9f8": {
+      "ProjectGuid": "931f93a4-7e3a-4c31-8e23-1586893fc9f8",
+      "DisplayName": "HomeWork2",
+      "ColorIndex": 0
+    },
+    "423348e9-7872-4420-8346-ad4131b4f45e": {
+      "ProjectGuid": "423348e9-7872-4420-8346-ad4131b4f45e",
+      "DisplayName": "Rhombus of Stars",
+      "ColorIndex": 1
+    },
+    "99b7813b-cc9b-4ee9-babe-2a03d9782bb0": {
+      "ProjectGuid": "99b7813b-cc9b-4ee9-babe-2a03d9782bb0",
+      "DisplayName": "Point in Rectangle",
+      "ColorIndex": 2
+    },
+    "41ea0aad-6a0b-4ea8-b4f1-051de82c8026": {
+      "ProjectGuid": "41ea0aad-6a0b-4ea8-b4f1-051de82c8026",
+      "DisplayName": "Student System",
+      "ColorIndex": 3
+    },
+    "6f8c08c2-8506-4ab8-91c3-def64a275b0e": {
+      "ProjectGuid": "6f8c08c2-8506-4ab8-91c3-def64a275b0e",
+      "DisplayName": "Hotel Reservation",
+      "ColorIndex": 4
+    },
+    "cafc3c78-0802-4d81-8a28-3b2be5579659": {
+      "ProjectGuid": "cafc3c78-0802-4d81-8a28-3b2be5579659",
+      "DisplayName": "HotelReservation",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

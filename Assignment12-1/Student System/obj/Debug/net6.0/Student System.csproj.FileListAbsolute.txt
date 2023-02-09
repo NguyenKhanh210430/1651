@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\Student System.exe
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\Student System.deps.json
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\Student System.runtimeconfig.json
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\Student System.dll
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\ref\Student System.dll
+C:\Users\Asus\source\repos\HomeWork2\Student System\bin\Debug\net6.0\Student System.pdb
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.dll
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\ref\Student System.dll
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.pdb
+C:\Users\Asus\source\repos\HomeWork2\Student System\obj\Debug\net6.0\Student System.genruntimeconfig.cache
