@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\Work55.exe
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\Work55.deps.json
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\Work55.runtimeconfig.json
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\Work55.dll
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\ref\Work55.dll
+C:\Users\Asus\source\repos\Work55\Work55\bin\Debug\net6.0\Work55.pdb
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.dll
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\ref\Work55.dll
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.pdb
+C:\Users\Asus\source\repos\Work55\Work55\obj\Debug\net6.0\Work55.genruntimeconfig.cache

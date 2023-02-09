@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "452e2df4-e8b1-4d67-93cc-2441219838f5": {
+      "ProjectGuid": "452e2df4-e8b1-4d67-93cc-2441219838f5",
+      "DisplayName": "Work55",
+      "ColorIndex": 0
+    },
+    "8103805d-ef15-463e-846c-63f712b62cf3": {
+      "ProjectGuid": "8103805d-ef15-463e-846c-63f712b62cf3",
+      "DisplayName": "Animals",
+      "ColorIndex": 1
+    },
+    "d6290d3b-a3c4-4cf8-b0d3-d4202b377653": {
+      "ProjectGuid": "d6290d3b-a3c4-4cf8-b0d3-d4202b377653",
+      "DisplayName": "Shapes",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
